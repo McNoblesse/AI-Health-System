@@ -1,0 +1,1945 @@
+{
+    "user123": {
+        "cycle_data": [
+            {
+                "start_date": "2025-05-01",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 28,
+                "end_date": "2025-05-06"
+            }
+        ]
+    },
+    "alice1": {
+        "cycle_data": [
+            {
+                "start_date": "2025-05-13",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 28,
+                "end_date": "2025-05-18"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 2,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-16",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 1,
+                "end_date": "2025-05-21"
+            },
+            {
+                "start_date": "2025-05-16",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-21"
+            }
+        ]
+    },
+    "jane_doe_001": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-01",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 18,
+                "end_date": "2025-05-06"
+            },
+            {
+                "start_date": "2025-05-05",
+                "period_duration": 7,
+                "luteal_phase": 10,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 4,
+                "end_date": "2025-05-12"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 5,
+                "end_date": "2025-05-14"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-05-14"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-05-14"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 5,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 9,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-29",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Moderate",
+                "weight_change": "Lost",
+                "cycle_length": 5,
+                "end_date": "2025-06-03"
+            },
+            {
+                "start_date": "2025-05-29",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-06-03"
+            },
+            {
+                "start_date": "2025-05-29",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Moderate",
+                "weight_change": "Lost",
+                "cycle_length": 0,
+                "end_date": "2025-06-03"
+            },
+            {
+                "start_date": "2025-05-29",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-06-03"
+            },
+            {
+                "start_date": "2025-05-29",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-06-03"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 3,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "poor",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-01",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-06-05"
+            },
+            {
+                "start_date": "2025-06-11",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 10,
+                "end_date": "2025-06-15"
+            },
+            {
+                "start_date": "2025-06-16",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "low",
+                "weight_change": "none",
+                "cycle_length": 5,
+                "end_date": "2025-06-20"
+            },
+            {
+                "start_date": "2025-06-19",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "poor",
+                "weight_change": "none",
+                "cycle_length": 3,
+                "end_date": "2025-06-23"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 21,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-10",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 0,
+                "end_date": "2025-07-14"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 15,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-07-25",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-07-31"
+            },
+            {
+                "start_date": "2025-08-05",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 11,
+                "end_date": "2025-08-10"
+            },
+            {
+                "start_date": "2025-08-05",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-08-10"
+            },
+            {
+                "start_date": "2025-08-05",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-08-10"
+            },
+            {
+                "start_date": "2025-08-05",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-08-10"
+            }
+        ]
+    },
+    "string": {
+        "cycle_data": [
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 28,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-15",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-20"
+            },
+            {
+                "start_date": "2025-05-16",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 1,
+                "end_date": "2025-05-21"
+            },
+            {
+                "start_date": "2025-05-17",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 1,
+                "end_date": "2025-05-22"
+            },
+            {
+                "start_date": "2025-05-18",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 1,
+                "end_date": "2025-05-23"
+            },
+            {
+                "start_date": "2025-06-16",
+                "period_duration": 4,
+                "luteal_phase": 13,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 29,
+                "end_date": "2025-06-20"
+            },
+            {
+                "start_date": "2025-07-14",
+                "period_duration": 3,
+                "luteal_phase": 15,
+                "stress": "Moderate",
+                "exercise": "Light",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 28,
+                "end_date": "2025-07-17"
+            }
+        ]
+    },
+    "cycle_user_healthy": {
+        "cycle_data": [
+            {
+                "start_date": "2025-05-01",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 28,
+                "end_date": "2025-05-06"
+            },
+            {
+                "start_date": "2025-05-01",
+                "period_duration": 5,
+                "luteal_phase": 14,
+                "stress": "Low",
+                "exercise": "Moderate",
+                "sleep": "Good",
+                "weight_change": "None",
+                "cycle_length": 0,
+                "end_date": "2025-05-06"
+            }
+        ]
+    },
+    "cycle_user_stressed": {
+        "cycle_data": [
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 28,
+                "end_date": "2025-05-30"
+            },
+            {
+                "start_date": "2025-05-24",
+                "period_duration": 6,
+                "luteal_phase": 13,
+                "stress": "High",
+                "exercise": "None",
+                "sleep": "Poor",
+                "weight_change": "Gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-30"
+            }
+        ]
+    },
+    "jane_doe_005": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_002": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 0,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 0,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_003": {
+        "cycle_data": [
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 28,
+                "end_date": "2025-05-13"
+            }
+        ]
+    },
+    "jane_doe_004": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_01": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_02": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_03": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_008": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_009": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_1": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_3": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "luteal_phase": 14,
+                "stress": "low",
+                "exercise": "moderate",
+                "sleep": "good",
+                "weight_change": "none",
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "luteal_phase": 13,
+                "stress": "high",
+                "exercise": "none",
+                "sleep": "poor",
+                "weight_change": "gained",
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "luteal_phase": 12,
+                "stress": "moderate",
+                "exercise": "light",
+                "sleep": "moderate",
+                "weight_change": "lost",
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_11": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 0,
+                "end_date": "2025-04-17"
+            }
+        ]
+    },
+    "jane_doe_88": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            }
+        ]
+    },
+    "jane_doe_10": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            }
+        ]
+    },
+    "jane_doe_17": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 0,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 0,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_22": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            }
+        ]
+    },
+    "jane_doe_95": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_25": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_23": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 0,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 0,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_76": {
+        "cycle_data": [
+            {
+                "start_date": "2025-04-13",
+                "period_duration": 4,
+                "cycle_length": 28,
+                "end_date": "2025-04-17"
+            },
+            {
+                "start_date": "2025-05-10",
+                "period_duration": 3,
+                "cycle_length": 27,
+                "end_date": "2025-05-13"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 35,
+                "end_date": "2025-06-19"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 0,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_87": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 0,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_07": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_010": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_011": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 0,
+                "end_date": "2025-06-19"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 0,
+                "end_date": "2025-06-19"
+            },
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 0,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_012": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_013": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            }
+        ]
+    },
+    "jane_doe_015": {
+        "cycle_data": [
+            {
+                "start_date": "2025-06-14",
+                "period_duration": 5,
+                "cycle_length": 28,
+                "end_date": "2025-06-19"
+            }
+        ]
+    }
+}
